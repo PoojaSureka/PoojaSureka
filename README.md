@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PoojaSureka</h1>
-<h3 align="center">Hii! I am a passionate Data Scientist with proven ability and experience in Machine Learning and Data Science projects. So far I have worked on numerous projects and dataset building different machine learning models in the domain of supervised machine learning, unsupervised machine learning and Time Series Forecasting. I have also picked up several handy skills like SQL, HTML, CSS and so on that enhances my skill in the field of data science.</h3> 
+<h3 align="center">Hii! I am a passionate Data Scientist with proven ability and experience in Machine Learning and Data Science projects. So far I have worked on numerous projects and dataset building different machine learning models in the domain of supervised machine learning, unsupervised machine learning and Time Series Forecasting. I have also picked up several handy skills like SQL, HTML and so on that enhances my skill in the field of data science.</h3> 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
