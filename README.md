@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm PoojaSureka</h1>
-<h3 align="center">Hii! I am a passionate Data Scientist with proven ability and experience in Machine Learning and Data Science projects. So far I have worked on numerous projects and dataset building different machine learning models in the domain of supervised machine learning, unsupervised machine learning and Time Series Forecasting. I have also picked up several handy skills like SQL, HTML and so on that enhances my skill in the field of data science.</h3>
+<h3 align="center">Hi! My name is Pooja Sureka and I am an independent and self-motivated individual with proven ability and experience in Machine Learning and Data Science projects. So far I have worked on numerous projects and dataset building different machine learning in the domain of supervised learning, unsupervised learning, Time Series Forecasting. I have also picked up several handy skills like SQL, HTML, CSS and so on that enhances my skill in the field of data science.</h3>
+
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojasureka&label=Profile%20views&color=0e75b6&style=flat" alt="poojasureka" /> </p>
 
-- 🔭 I’m currently working on **Blogging Website using Flask Framework**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Full Stack Data Science Bootcamp 2.0 from ineuron.**
+- 🌱 I’m currently learning **Full Stack Data Science Bootcamp 2.0 from iNeuron.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/PoojaSureka?tab=repositories](https://github.com/PoojaSureka?tab=repositories)
 
 - 📫 How to reach me **psureka98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ESiyDzXL0ETX_Ib2TrAd1l3OuI1pto1-/view?usp=share_link](https://drive.google.com/file/d/1ESiyDzXL0ETX_Ib2TrAd1l3OuI1pto1-/view?usp=share_link)
+- ⚡ Fun fact **I believe I am Funny😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pooja-sureka-70485821a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja sureka" height="30" width="40" /></a>
-<a href="https://www.instagram.com/psureka26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooja sureka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pooja sureka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja sureka" height="30" width="40" /></a>
+<a href="https://kaggle.com/pooja sureka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pooja sureka" height="30" width="40" /></a>
+<a href="https://instagram.com/pooja sureka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooja sureka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojasureka&show_icons=true&locale=en" alt="poojasureka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojasureka&" alt="poojasureka" /></p>
-
