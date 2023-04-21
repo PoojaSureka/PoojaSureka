@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PoojaSureka</h1>
-<h3 align="center">Hi! My name is Pooja Sureka and I am an independent and self-motivated individual with proven ability and experience in Machine Learning and Data Science projects. So far I have worked on numerous projects and dataset building different machine learning in the domain of supervised learning, unsupervised learning, Time Series Forecasting. I have also picked up several handy skills like SQL, HTML, CSS and so on that enhances my skill in the field of data science.</h3>
+<h3 align="center">Hi! My name is Pooja Sureka and I am an independent and self-motivated individual with proven ability and experience in Machine Learning and Data Science projects. So far I have worked on numerous projects and dataset building different machine learning in the domain of supervised learning, unsupervised learning, Time Series Forecasting. I have also picked up several handy skills like SQL and so on that enhances my skill in the field of data science.</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
