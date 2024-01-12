@@ -18,7 +18,7 @@
 
 - How to reach me **psureka98@gmail.com**
 
-- Fun fact **I believe I am Funny😎**
+- Fun fact : **Ctrl+C, Ctrl+V, and a dash of magic – that's how I code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
